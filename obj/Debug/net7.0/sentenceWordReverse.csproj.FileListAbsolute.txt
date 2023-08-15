@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\.NET\sentenceWordReverse\bin\Debug\net7.0\sentenceWordReverse.exe
+C:\Users\DELL\Desktop\.NET\sentenceWordReverse\bin\Debug\net7.0\sentenceWordReverse.deps.json
+C:\Users\DELL\Desktop\.NET\sentenceWordReverse\bin\Debug\net7.0\sentenceWordReverse.runtimeconfig.json
+C:\Users\DELL\Desktop\.NET\sentenceWordReverse\bin\Debug\net7.0\sentenceWordReverse.dll
+C:\Users\DELL\Desktop\.NET\sentenceWordReverse\bin\Debug\net7.0\sentenceWordReverse.pdb
+C:\Users\DELL\Desktop\.NET\sentenceWordReverse\obj\Debug\net7.0\sentenceWordReverse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\.NET\sentenceWordReverse\obj\Debug\net7.0\sentenceWordReverse.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\.NET\sentenceWordReverse\obj\Debug\net7.0\sentenceWordReverse.AssemblyInfo.cs
+C:\Users\DELL\Desktop\.NET\sentenceWordReverse\obj\Debug\net7.0\sentenceWordReverse.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\.NET\sentenceWordReverse\obj\Debug\net7.0\sentenceWordReverse.dll
+C:\Users\DELL\Desktop\.NET\sentenceWordReverse\obj\Debug\net7.0\refint\sentenceWordReverse.dll
+C:\Users\DELL\Desktop\.NET\sentenceWordReverse\obj\Debug\net7.0\sentenceWordReverse.pdb
+C:\Users\DELL\Desktop\.NET\sentenceWordReverse\obj\Debug\net7.0\sentenceWordReverse.genruntimeconfig.cache
+C:\Users\DELL\Desktop\.NET\sentenceWordReverse\obj\Debug\net7.0\ref\sentenceWordReverse.dll
